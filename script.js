@@ -2,7 +2,7 @@ const body = document.querySelector('body');
 const container = document.querySelector('.container');
 const gridSizeSlider = document.getElementById('grid-size-slider');
 const currentGridSizeSpan = document.getElementById('current-grid-size');
-const clear = document.querySelector('.clear');
+const clear = document.getElementById('clearButton');
 
 function createGrid(size = 16) {
     container.innerHTML = ''; // Clear the existing grid
@@ -40,3 +40,11 @@ gridSizeSlider.addEventListener('input', function() {
 
 // Initial grid creation
 createGrid(16);
+
+clear.addEventListener('click', function() {
+    const gridDivs = document.querySelectorAll('.grid-div');
+
+    gridDivs.forEach(gridDiv => {
+        gridDiv.style.background = 'white';
+    });
+})
