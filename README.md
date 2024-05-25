@@ -1,6 +1,6 @@
-# Simple Sketch App 🎨
+# Sketch App 🎨
 
-Welcome to the Simple Sketch App! This is a basic web application built with HTML, CSS, and JavaScript, allowing users to sketch and doodle freely.
+Welcome to the Sketch App! This is a basic web application built with HTML, CSS, and JavaScript, allowing users to sketch and doodle freely.
 
 ## Introduction 🚀
 
@@ -9,34 +9,30 @@ The Simple Sketch App is a fun and straightforward tool for unleashing your crea
 ## Features 🌟
 
 - **Free Drawing:** Sketch and doodle using your mouse or touchpad.
-- **Color Palette:** Choose from a variety of colors to express yourself.
 - **Eraser:** Correct mistakes with ease using the eraser tool.
 - **Clear Canvas:** Start fresh at any time by clearing the canvas.
-- **Save and Share:** Save your masterpieces or share them with friends.
 
 ## How to Use 🕹️
 
-1. Open the Simple Sketch App in your web browser.
+1. Open the Sketch App in your web browser.
 2. Use your mouse or touchpad to draw on the canvas.
-3. Select different colors from the palette to add variety to your sketches.
-4. Use the eraser tool to correct any mistakes.
-5. Clear the canvas to start a new sketch.
-6. Save your artwork or share it with others if desired.
+3. Use the eraser tool to correct any mistakes.
+4. Clear the canvas to start a new sketch.
 
 ## Installation ⚙️
 
-To use the Simple Sketch App locally, follow these steps:
+To use the Sketch App locally, follow these steps:
 
 1. Clone the repository or download the ZIP file:
 ```bash
-git clone https://github.com/your-username/simple-sketch-app.git
+git clone https://github.com/Alacant2804/simple-sketch-app.git
 ```
 
 3. Open the `index.html` file in your web browser.
 
 ## Usage 🎲
 
-Simply start drawing on the canvas using your mouse or touchpad. Experiment with different colors and brush sizes to create unique artworks. Don't forget to save your creations or share them with others!
+Simply start drawing on the canvas using your mouse or touchpad.
 
 ## Contributing 🤝
 
